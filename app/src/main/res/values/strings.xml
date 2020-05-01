@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string name="txt_success_toast">Success Toast</string>
+    <string name="txt_plain_toast">PlainText Toast</string>
+    <string name="txt_warning_toast">Warning Toast</string>
+    <string name="txt_error_toast">Error Toast</string>
+    <string name="txt_click_above">Click above buttons for show toasts</string>
+</resources>
